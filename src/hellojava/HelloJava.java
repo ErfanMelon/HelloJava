@@ -27,9 +27,9 @@ public class HelloJava {
         Scanner inputs = new Scanner(System.in);
         String input = inputs.nextLine();
         System.out.print("Please Enter First Number : ");
-        long num1 = inputs.nextLong();
+        double num1 = inputs.nextDouble();
         System.out.print("Please Enter Second Number : ");
-        long num2 = inputs.nextLong();
+        double num2 = inputs.nextDouble();
 
         switch (input) {
             case "+":
