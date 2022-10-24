@@ -1,7 +1,7 @@
-import lang.stride.*;
+//import lang.stride.*;
 import java.util.Scanner;
 
-public class FirstProject
+public class Temp
 {
     static public void main(String[] args)
     {
